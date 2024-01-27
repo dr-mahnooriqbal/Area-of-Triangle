@@ -1,0 +1,5 @@
+print("To calculate the Area of a Triangle =A ,put the values below")
+b=int(input("Base of triangle =b="))
+h=int(input("Height of triangle =h="))
+print("As Area of a triangle is calculated as, \n" ,"A=1/2 bxh", "\n where,\n b=base of triangle \n h=height of triangle")
+print("Area of the triangle of above given value is, \nA=", (b)*(h)/2,"cm2")
